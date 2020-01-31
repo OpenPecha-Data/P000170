@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: རིན་ཆེན་མཛོད་ལྡེ། །
+  authors: []
+  sku: SHE-005
+  layers:
+  - book_title
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: Key to the Treasury
+    bo: རིན་ཆེན་མཛོད་ལྡེ།
+  collection:
+    en: Shechen Tantra Series–  Book 5
+    bo: ''
+  author:
+    en: Dodrup Chen Sung
+    bo: རྡོ་གྲུབ་ཆེན་གསུང།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-005
+  category:
+    en: Uncategorized
+    bo: Uncategorized @tib
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-005.epub
+  description:
+    en: ''
+    bo: ''
