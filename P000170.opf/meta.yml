@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000170
+initial_creation_type: ebook
+source_metadata:
   title: རིན་ཆེན་མཛོད་ལྡེ། །
   authors: []
-  sku: SHE-005
   layers:
   - book_title
   - chapter_title
   - tsawa
   - quotation
   - sabche
+  id: SHE-005
 web_metadata:
   title:
     en: Key to the Treasury
